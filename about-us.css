@@ -8,6 +8,7 @@ body {
 ----to check overflowing contents(if any) causing horizontal scrollbar-------------*/
 /**{
     outline: 1px solid red;
+	margin:5px;
 }*/
 
 /*--for navigation bar------*/
